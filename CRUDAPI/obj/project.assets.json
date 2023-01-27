@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas Aguiar\\Desktop\\VS Code\\CrudAngularWebApi\\CRUDAPI\\CRUDAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas Aguiar\\Desktop\\VS Code\\Crud-Angular-NET\\CRUDAPI\\CRUDAPI.csproj",
       "projectName": "CRUDAPI",
-      "projectPath": "C:\\Users\\Lucas Aguiar\\Desktop\\VS Code\\CrudAngularWebApi\\CRUDAPI\\CRUDAPI.csproj",
+      "projectPath": "C:\\Users\\Lucas Aguiar\\Desktop\\VS Code\\Crud-Angular-NET\\CRUDAPI\\CRUDAPI.csproj",
       "packagesPath": "C:\\Users\\Lucas Aguiar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas Aguiar\\Desktop\\VS Code\\CrudAngularWebApi\\CRUDAPI\\obj\\",
+      "outputPath": "C:\\Users\\Lucas Aguiar\\Desktop\\VS Code\\Crud-Angular-NET\\CRUDAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucas Aguiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
